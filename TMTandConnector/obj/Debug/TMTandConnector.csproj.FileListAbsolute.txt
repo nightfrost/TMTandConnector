@@ -1,0 +1,6 @@
+c:\users\lrd.tm\documents\visual studio 2015\Projects\TMTandConnector\TMTandConnector\bin\Debug\TMTandConnector.exe.config
+c:\users\lrd.tm\documents\visual studio 2015\Projects\TMTandConnector\TMTandConnector\bin\Debug\TMTandConnector.exe
+c:\users\lrd.tm\documents\visual studio 2015\Projects\TMTandConnector\TMTandConnector\bin\Debug\TMTandConnector.pdb
+c:\users\lrd.tm\documents\visual studio 2015\Projects\TMTandConnector\TMTandConnector\obj\Debug\TMTandConnector.exe
+c:\users\lrd.tm\documents\visual studio 2015\Projects\TMTandConnector\TMTandConnector\obj\Debug\TMTandConnector.pdb
+c:\users\lrd.tm\documents\visual studio 2015\Projects\TMTandConnector\TMTandConnector\obj\Debug\TMTandConnector.csprojResolveAssemblyReference.cache
